@@ -1,3 +1,5 @@
+NOTE : This is not my project. I used only for the Educational Purpose.
+
 Case Study : Pan Card Tampered Detection with Flask.
 
 Description :  This project can be used in different organisation where customers or users need to provide any kind of id in order to get themselves verified. The organisation can use this project to find out whether the ID is original or fake. Similarly this can be used for any type of ID like Aadhar Card, Pan Card and more.
@@ -16,9 +18,7 @@ Step to be Followed in this project
 10 : Compare all the images and check the similarity score to decide tampering.
 
 
-
-
-NOTE : This is not my project. I used only for the Educational Purpose.
+# For Deploying Purpose
 
 Step to run application:
 Step 1:	Create the copy of the project.
