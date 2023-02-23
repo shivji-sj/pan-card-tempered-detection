@@ -1,7 +1,3 @@
-NOTE : This is not my project. I use only for the Educational purpose.
-
-
-
 Step to be Followed in this project 
 
 1 : Get the Image form the user
